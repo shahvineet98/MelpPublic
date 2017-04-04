@@ -2,6 +2,8 @@
 
 Check it out live at: https://melp-app.herokuapp.com/
 
+![alt tag](http://i.imgur.com/J0Fyi37.png)
+
 ### What is Melp:
 
 Melp is a web app that was built using Node.js
