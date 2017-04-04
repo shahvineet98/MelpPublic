@@ -11,17 +11,17 @@ It will get your current location using HTML5 Geolocation if you give it permiss
 ### Preferences
 You can change your preferences to filter out certain restaurants around you. 
 
-![alt tag](http://imgur.com/x5xzxK2)
+![alt tag](http://i.imgur.com/x5xzxK2.png)
 
 ### Map
 The map will be updated with markers once your location has been found
 
-![alt tag](http://imgur.com/uSqVbvz)
+![alt tag](http://i.imgur.com/YOA7hCu.png)
 
 ### Marker Information
 Once you click on a marker on the Google Map it will populate the bottom right section of the screen with more information about that place.
 
-![alt tag](http://imgur.com/MtdcRGR)
+![alt tag](http://i.imgur.com/MtdcRGR.png)
 
 ### Send to Phone
 
