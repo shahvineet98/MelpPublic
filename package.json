@@ -1,0 +1,21 @@
+{
+  "name": "yelp_map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "compression": "^1.6.2",
+    "config": "^1.25.1",
+    "express": "^4.15.2",
+    "request": "^2.79.0",
+    "sentiment": "^3.0.1",
+    "twilio": "^2.11.1",
+    "yelp-fusion": "^1.0.3"
+  }
+}
